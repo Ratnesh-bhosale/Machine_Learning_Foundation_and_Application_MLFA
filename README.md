@@ -1,4 +1,4 @@
-# MLFA-AI42001-
+# Machine_Learning_Foundation_and_Application_MLFA
 
 _______________________
 This repo contains Tutorials, Solutions to Assignments, Exam Question Papers, Mini-Projects and My solution to them, Sample Questions for the course Machine Learning Foundation and Application i.e. MLFA (AI42001) at IIT Kharagpur.
