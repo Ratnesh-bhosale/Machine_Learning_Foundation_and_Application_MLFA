@@ -5,24 +5,16 @@ This repo contains Tutorials, Solutions to Assignments, Exam Question Papers, Mi
 _______________________
 
 
-Machine Learning Foundation and Application (AI42001)
-
-Autumn, 2021
-
-Center of Excellence in Artificial Intelligence (COEAI)
-
-IIT Kharagpur
-
+Machine Learning Foundation and Application (AI42001)<br>
+Autumn, 2021<br>
+Center of Excellence in Artificial Intelligence (COEAI)<br>
+IIT Kharagpur<br>
 _____________________
-About Myself - 
-
-Name - Ratnesh Sambhajirao Bhosale
-
-Roll No - 19MF10010
-
-Department - Department of Mechanical Engineering
-
-Institute - IIT Kharagpur
+About Myself - <br>
+Name - Ratnesh Sambhajirao Bhosale<br>
+Roll No - 19MF10010<br>
+Department - Department of Mechanical Engineering<br>
+Institute - IIT Kharagpur<br>
 ____________________
 
 
